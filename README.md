@@ -1,10 +1,12 @@
 # tuckeror.gitub.io
 GitHub Pages 
- <title>Github Site</title>
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+    <title>Github Site</title>
     <body><h1>This is practice for GitHub 
-        </h1>
+        </h1></body>
     <h2>Practice Text</h2>
-  <img src="img_githubscreenshot.png" alt="pic">
-</body>
+  <div class="img1"><img src="images/githubscreenshot.png"></div>
     </head>
 </html>
